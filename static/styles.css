@@ -80,9 +80,11 @@ body{
     font-size: 1.1rem;
     color: rgb(53, 5, 53);
 }
+.readings h4{
+    font-size: 0.8rem;
+}
 .readings .date{
-    font-style: italic;
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     margin-bottom: 10px;
 }
 .readings .first-para::first-letter{
