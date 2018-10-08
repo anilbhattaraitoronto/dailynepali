@@ -24,7 +24,7 @@ body{
     text-align: center;
 }
 .main-nav{
-    background: rgb(97, 100, 79, 0.9);
+    background: rgba(182, 189, 142, 0.9);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -35,7 +35,7 @@ body{
 }
 .main-nav a{
     text-decoration: none;
-    color: white;
+    color: rgb(10, 32, 10);
     padding: 0px 20px;
 }
 .main-nav a:hover{
