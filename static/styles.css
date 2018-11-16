@@ -24,7 +24,7 @@ body{
     text-align: center;
 }
 .main-nav{
-    background: rgba(182, 189, 142, 0.9);
+    background: rgba(182, 189, 142);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -101,7 +101,7 @@ body{
 }
 
 footer{
-    background: rgb(97, 100, 79, 0.9);
+    background: rgb(97, 100, 79);
     padding: 10px 0px;
     margin: 10px 0px;
     position: sticky;
