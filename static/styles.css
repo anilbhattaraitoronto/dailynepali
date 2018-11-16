@@ -28,7 +28,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 20px 0px;
+    padding: 0 20px;
     margin: 40px 0px;
     position: sticky;
     top: 0;
@@ -36,11 +36,12 @@ body{
 .main-nav a{
     text-decoration: none;
     color: rgb(10, 32, 10);
-    padding: 0px 20px;
+    padding: 20px;
 }
 .main-nav a:hover{
     background: white;
     color: rgb(6, 59, 59);
+    padding: 20px;
 }
 .main-nav a:active{
     background: gray;
